@@ -1,0 +1,10 @@
+{
+  "name": "Anti Productivity Timer",
+  "description": "Only a slave quantifies it's existence through productivity",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "icon.png"
+  }
+}
